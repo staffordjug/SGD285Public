@@ -1,0 +1,11 @@
+Model Information:
+* title:	Aaton 35 Gltf
+* source:	https://sketchfab.com/3d-models/aaton-35-gltf-6498b1e966a7457f911e06dc16c77423
+* author:	johann.menier (https://sketchfab.com/johann.menier)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Aaton 35 Gltf" (https://sketchfab.com/3d-models/aaton-35-gltf-6498b1e966a7457f911e06dc16c77423) by johann.menier (https://sketchfab.com/johann.menier) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
